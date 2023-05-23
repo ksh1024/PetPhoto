@@ -6,5 +6,7 @@
     <string name="radio_cat">고양이</string>
     <string name="radio_dog">강아지</string>
     <string name="radio_deer">사슴</string>
-    <string name="btn_done">선택 완료</string>
+
+    <string name="btn_finish">종료</string>
+    <string name="btn_first">처음으로</string>
 </resources>
